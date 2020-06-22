@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Cam the Coder's Homepage
+
+## A place for keeping track of my progress as a burgeoning fullstack web developer
 
 You can use the [editor on GitHub](https://github.com/camthecoder2020/camthecoder2020.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
